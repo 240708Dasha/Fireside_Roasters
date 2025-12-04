@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /admin/
+
+Sitemap: https://240708dasha.github.io/Fireside-Roasters/sitemap.xml
